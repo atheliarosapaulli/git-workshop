@@ -15,6 +15,6 @@ for i in range(5):
 
 here is some **important text**
 
-YELLOW DINOSAURS	
+IRIDESCENT DINOSAURS	
 
 more rainbow dinosaurs
